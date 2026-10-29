@@ -68,15 +68,15 @@ Core HR (employees, attendance, payroll) · ADL Lock™ fairness engine · skill
 - 🔒 **Private by design** — each company sees only its own plants, enforced inside the database
 
 <details>
-<summary><b>🗺️ Build progress</b> (updated 30 Oct 2026)</summary>
+<summary><b>🗺️ Build progress</b> (updated 29 Oct 2026)</summary>
 
 | Milestone | What | Status |
 |---|---|---|
 | M0 | App shell, Urdu + English, OEE engine (golden test) | ✅ Done |
 | M1 | Private database, login, 11 roles, row-level security, audit log | ✅ Done |
-| M2 | Organization, machines, QR labels, Excel import · Machine DNA, simulator | 🟡 In progress |
-| M3 | Live OEE, shift calendar (namaz, Jumma, Ramzan), TV mode | ⏳ Next |
-| M4 | Loss Ledger, operator tablet, andon · alerts on WhatsApp / e-mail | ⏳ |
+| M2 | Organization, machines, QR labels, Excel import, Machine DNA, simulator | ✅ Done (Family Builder next) |
+| M3 | Live wall, TV mode, animated machine pages, shift calendar (namaz, Jumma) | 🟡 Demo running |
+| M4 | Loss Ledger, operator tablet, andon · alerts on WhatsApp / e-mail | ⏳ Next |
 | M5–M10 | Edge gateway, maintenance, tooling & quality, predictive, AI copilot, plant pilot | ⏳ |
 
 The product code is private while it is built for its first customer in Karachi.
