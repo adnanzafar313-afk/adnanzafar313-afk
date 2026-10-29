@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Adnan Zafar — manufacturing and software, building OEEnova, Karachi" width="100%">
+  <img src="assets/banner.svg" alt="Adnan Zafar — manufacturing and software, building OEEnova and AZHR ORBIT, Karachi" width="100%">
 </p>
 
 <p align="center">
@@ -29,11 +29,34 @@ That is what I am building software for.
 
 ---
 
-## 🚀 Building: OEEnova
+## 🚀 What I'm building
 
 <p align="center">
-  <img src="assets/oeenova.svg" alt="OEEnova — every machine, every cycle, brighter" width="100%">
+  <img src="assets/projects.svg" alt="Projects slider: OEEnova (machine and production intelligence) and AZHR ORBIT (HR and people intelligence)" width="100%">
 </p>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ OEEnova
+Machine & production intelligence
+
+Live OEE · Loss Ledger in PKR · Machine DNA (20 families) · WhatsApp & e-mail alerts · Urdu operator tablet
+
+</td>
+<td width="50%" valign="top">
+
+### 🪐 AZHR ORBIT™
+HR & people intelligence
+
+Core HR (employees, attendance, payroll) · ADL Lock™ fairness engine · skills & KPIs · Urdu Voice AI · multi-company
+
+</td>
+</tr>
+</table>
+
+### ⚙️ OEEnova in detail
 
 **OEEnova** is a machine & production intelligence platform for *every* machine type — not just pumps and motors, but presses, spot-weld robots, CNCs, paint lines, PU foam lines and the old lathe in the corner.
 
@@ -58,6 +81,19 @@ That is what I am building software for.
 
 The product code is private while it is built for its first customer in Karachi.
 </details>
+
+### 🪐 AZHR ORBIT™ in detail
+
+**AZHR ORBIT™** brings the shop-floor way of thinking — measure, find the loss, fix it, prove it — to people and HR.
+
+- 👥 **Core HR** — employees, attendance and payroll
+- ⚖️ **ADL Lock™** — a fairness engine behind KPIs, goals, appeals and reviews
+- 🧭 **Org intelligence** — org chart, process flow and tasks
+- 🛠️ **Continuous improvement** — kaizen, poka-yoke, skills matrix
+- 🎙️ **Voice AI in Urdu** — workers give feedback by voice; WhatsApp built in
+- 🏢 **Multi-company** — one super controller for a group of companies
+
+<sub>Private while in development.</sub>
 
 ---
 
