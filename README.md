@@ -78,6 +78,7 @@ Core HR (employees, attendance, payroll) · ADL Lock™ fairness engine · skill
 | M3 | Live wall, TV mode, animated machine pages, shift calendar (namaz, Jumma) | 🟡 Demo running |
 | M4 | Loss Ledger in PKR, Urdu operator tablet, andon, alerts + e-mail outbox, camera AI zone | 🟡 Demo running |
 | M5 | Edge gateway + first real machine | ⏳ Next |
+| Demo | Every module live on the simulator: maintenance, energy, quality, SMED, predictive, reports, twin, assistant | ✅ 30 Oct 2026 |
 | M6–M10 | Maintenance, tooling & quality, predictive, AI copilot, plant pilot | ⏳ |
 
 The product code is private while it is built for its first customer in Karachi.
