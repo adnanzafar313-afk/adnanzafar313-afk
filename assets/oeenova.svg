@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-label="OEEnova — every machine, every cycle, brighter. Machine and production intelligence for every machine type.">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0f8a7f"/>
+      <stop offset="1" stop-color="#0b3d4a"/>
+    </linearGradient>
+    <style>
+      text { font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; }
+      .eng { opacity: 0; animation: cycle 18s infinite; }
+      .e1 { animation-delay: 0s; } .e2 { animation-delay: 3s; } .e3 { animation-delay: 6s; }
+      .e4 { animation-delay: 9s; } .e5 { animation-delay: 12s; } .e6 { animation-delay: 15s; }
+      @keyframes cycle { 0% { opacity: 0; transform: translateY(8px); } 3%, 14% { opacity: 1; transform: none; } 17%, 100% { opacity: 0; transform: translateY(-8px); } }
+      .spin { transform-origin: 70px 125px; animation: spin 2.2s cubic-bezier(.2,.8,.2,1) forwards; }
+      @keyframes spin { from { transform: rotate(-200deg) scale(.6); opacity: 0; } to { transform: none; opacity: 1; } }
+      .bar { animation: grow 3s linear infinite; transform-origin: left; }
+      @keyframes grow { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+    </style>
+  </defs>
+  <rect width="1200" height="250" rx="18" fill="url(#bg2)"/>
+
+  <!-- logo mark -->
+  <g class="spin">
+    <circle cx="70" cy="125" r="34" fill="none" stroke="#0b3d4a" stroke-width="12"/>
+    <path d="M87 95.4A34 34 0 1 1 40.5 106" fill="none" stroke="#ffffff" stroke-width="12" stroke-linecap="round"/>
+    <path d="M87 85Q88.8 93.6 97.5 95.4Q88.8 97.2 87 105.8Q85.2 97.2 76.5 95.4Q85.2 93.6 87 85Z" fill="#f6b443"/>
+  </g>
+
+  <text x="130" y="110" fill="#ffffff" font-size="40" font-weight="700"><tspan fill="#bff3ea">OEE</tspan>nova</text>
+  <text x="132" y="142" fill="#e7f6f3" font-size="18">Every machine. Every cycle. <tspan fill="#f6b443" font-weight="700">Brighter.</tspan></text>
+  <text x="132" y="172" fill="#bff3ea" font-size="15">Machine &amp; production intelligence for every machine type · English + اردو</text>
+
+  <!-- rotating engines -->
+  <g transform="translate(700 70)">
+    <rect width="450" height="110" rx="14" fill="#06262b" fill-opacity=".55" stroke="#bff3ea" stroke-opacity=".25"/>
+    <text x="22" y="32" fill="#9fd9cf" font-size="12" letter-spacing="2">ONE PLATFORM · ENGINES</text>
+    <g class="eng e1"><text x="22" y="66" fill="#ffffff" font-size="22" font-weight="700">Live OEE</text><text x="22" y="90" fill="#bff3ea" font-size="14">Availability × performance × quality, every shift</text></g>
+    <g class="eng e2"><text x="22" y="66" fill="#ffffff" font-size="22" font-weight="700">Loss Ledger</text><text x="22" y="90" fill="#bff3ea" font-size="14">One loss, one entry, one cost — in rupees</text></g>
+    <g class="eng e3"><text x="22" y="66" fill="#ffffff" font-size="22" font-weight="700">Machine DNA · 20 families</text><text x="22" y="90" fill="#bff3ea" font-size="14">From the 1000T press to the PU foam line</text></g>
+    <g class="eng e4"><text x="22" y="66" fill="#ffffff" font-size="22" font-weight="700">Alerts on WhatsApp &amp; e-mail</text><text x="22" y="90" fill="#bff3ea" font-size="14">The right person, within a minute</text></g>
+    <g class="eng e5"><text x="22" y="66" fill="#ffffff" font-size="22" font-weight="700">Changeover &amp; SMED</text><text x="22" y="90" fill="#bff3ea" font-size="14">From last good part to first good part, timed</text></g>
+    <g class="eng e6"><text x="22" y="66" fill="#ffffff" font-size="22" font-weight="700">Operator tablet in Urdu</text><text x="22" y="90" fill="#bff3ea" font-size="14">Two taps, even without internet</text></g>
+    <rect class="bar" x="0" y="106" width="450" height="4" rx="2" fill="#f6b443"/>
+  </g>
+</svg>
